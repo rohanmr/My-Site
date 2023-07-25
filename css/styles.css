@@ -456,7 +456,7 @@ a {
   content: close-quote;
 }
 .quote__text {
-  text-align: justify;
+  text-align: center;
 }
 .quote__author {
   font-size: 2rem;
@@ -756,7 +756,7 @@ a {
 .block-domain__prices {
   color: var(--color-headings);
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
+  grid-template-columns: repeat(4, 1fr);
   grid-template-rows: repeat(2, 6rem);
   font-size: 2rem;
   font-weight: 600;
