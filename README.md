@@ -1,6 +1,6 @@
 # My-Site
 
-Simple Portfolio website about me and my work.
+Simple attractive modern Portfolio Website about Me and My Work.
 
 ## Go Live:
-https://rm-deves.netlify.app/
+https://rm-devs.netlify.app/
